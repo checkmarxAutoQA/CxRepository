@@ -1,6 +1,6 @@
 public class SQLInjection
 {
-     public static void main (String [] args)
+     public static void main (String [] argds)
 	 {
 		String accountNumber = args[1];
 		String query = "SELECT * FROM user_data WHERE acountNumber = " + accountNumber; 
