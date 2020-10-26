@@ -16,7 +16,7 @@ public class SQLInjection
 	     //fgfggdgs
 	     //fasdfasdf
 	     //fsdfasd
-	     //ghsghsf
+	   
 	 
 	   
 	     
