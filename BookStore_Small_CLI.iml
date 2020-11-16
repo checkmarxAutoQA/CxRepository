@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="5dd4fdsasdffedfdgdfgfgdasdasdrsdfsdfdsfsdwefdfwvbcvbreewerwerwereeeeeeeewe456456">
-  <component name="NewModuleRootManager" inheriewrwert-compiler-output="true">
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Test" isTestSource="true" />
     </content>
-    <orderEntry type="inheric123bghjhcvbt6786efddfsdfreasdasrsdfsdterwerweegdfdJdk" />
-    <orderEntry type="sourceFol  der" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
 
