@@ -1,6 +1,6 @@
  private static string OpenLicense(string path)
 //Don't forget 
-  //klfnlkdhasflhkyutyutysdfsdfsd
+  //klfnlkdhasflhkyutyutysdfsdfsdwerwerwer
 //xdlnhlkhldhlhjkhjkhjkhjkfghfghtyutyu
 //dkjhkjhdkjhkjfghfghf
 public class CodeInjection
